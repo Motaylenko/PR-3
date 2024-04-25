@@ -1,0 +1,7 @@
+div {
+	display: inline-block;
+	width: 20%; 
+	height: 150px;
+	box-sizing: border-box; 
+	background: linear-gradient(to left, #ffff00, #00ff00);
+}
